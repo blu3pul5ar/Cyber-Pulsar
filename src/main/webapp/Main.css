@@ -8,10 +8,9 @@ and open the template in the editor.
     Author     : Nicholas
 */
 
-.Main{
-    width: 100px;
-    height: 100px;
-    background-color: red;
+div{
+    width: 500px;
+    height: 500px;
 
     position: absolute;
     top:0;
@@ -21,6 +20,8 @@ and open the template in the editor.
 
     margin: auto;
     color: white;
+    
+    text-align: center;
 }
 html{
     background-color: black;
