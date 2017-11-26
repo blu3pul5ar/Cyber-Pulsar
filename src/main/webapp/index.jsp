@@ -12,7 +12,9 @@
         <title>Cyber Pulsar -- Home</title>
     </head>
     <body>
-        <h1>!!!Web Site Under Construction!!!</h1>
-        <h2>The future home of Cyber Pulsar.</h2>
+        <div id="Main">
+            <h1>!!!Web Site Under Construction!!!</h1>
+            <h2>The future home of Cyber Pulsar.</h2>
+        </div>
     </body>
 </html>
